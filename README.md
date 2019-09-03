@@ -5,21 +5,25 @@
 I live in the city of Champaign, in the state of Illinois, in the United States
 of America.
 
+### University
+
+I am currently studying at University of Illlinois at Urbana-Champaign
+
 ### Reading
 
 Three of my favorite books are:
 
-- *Mindstorms* by Seymour Papert
+- *Gone With the Wind* by Margaret Mitchell
 - *Welcome to the Monkey House* by Kurt Vonnegut
 - *Persepolis* by Marjane Satrapi
 
 ### Food
 
-Last night I dreamt about eating in these restaurants:
+My favorite foods are:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Cheese of all kinds.
+2. Beef and Lamb.
+3. Seafoods.
 
 ### Contact
 
